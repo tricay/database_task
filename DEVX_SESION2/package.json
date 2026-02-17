@@ -1,0 +1,28 @@
+{
+  "name": "database_task",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "a turtorial on connecting to a database",
+  "keywords": [
+    "none"
+  ],
+  "homepage": "https://github.com/tricay/database_task#readme",
+  "bugs": {
+    "url": "https://github.com/tricay/database_task/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tricay/database_task.git"
+  },
+  "license": "ISC",
+  "author": "patrick",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "postgres": "^3.4.8"
+  }
+}
